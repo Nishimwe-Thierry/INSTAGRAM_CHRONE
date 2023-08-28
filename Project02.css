@@ -1,0 +1,32 @@
+
+#imginp{
+    display: flex;
+    gap: 10px;
+}
+.loginbtn{
+    background-color: blue;
+    line-height: auto;
+    width: 200px;
+    border-radius: 5%;
+}
+.signbtn{
+    background-color: red;
+    line-height: auto;
+    width: 200px;
+    border-radius: 5%;
+}
+img{
+    border: none;
+    border-radius: 40px;
+}
+form{
+    padding: 20%;
+    padding-left:40px;
+    padding-bottom: 40px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 45%;
+}
+.input{
+    height: 45px;
+}
